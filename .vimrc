@@ -33,6 +33,7 @@ Plugin 'rust-lang/rust.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'https://github.com/tell-k/vim-autopep8.git'
+Plugin 'https://github.com/lumiliet/vim-twig'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
