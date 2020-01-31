@@ -35,6 +35,9 @@ Plugin 'plasticboy/vim-markdown'
 Plugin 'https://github.com/tell-k/vim-autopep8.git'
 Plugin 'https://github.com/lumiliet/vim-twig'
 Plugin 'mattn/emmet-vim'
+Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
+Plugin 'https://github.com/prettier/vim-prettier'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -59,4 +62,5 @@ nnoremap <C-H> <C-W><C-H>
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
+
 
